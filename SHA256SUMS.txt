@@ -1,0 +1,2 @@
+ba892a50d198e7e20858f650554f9120bb8515058f9e843c22d8e6b5d7f8fb3f  eZeus-ARM64-macOS-no-assets.zip
+384f36c33967a34606011a4c7595ae2fa26cacf50fcc67f536af6909a431394c  eZeus-ZH-CN-Patch-no-assets.zip
